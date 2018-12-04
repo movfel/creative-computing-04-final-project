@@ -162,7 +162,7 @@
   transform: translateX(-50%);
 }
 
-#man .mouth.open { 
+#man .mouth:hover { 
     background-color: #F76F73;
     width: 35px;
     height: 15px;
